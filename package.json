@@ -5,8 +5,7 @@
 	"main": "src/init.lua",
 	"scripts": {
 		"build": "rbxtsc",
-		"watch": "rbxtsc -w",
-		"prepublishOnly": "pnpm run build"
+		"watch": "rbxtsc -w"
 	},
 	"keywords": [],
 	"author": "",
