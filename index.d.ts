@@ -1,5 +1,5 @@
 interface Module {
-	IsEven(passedNumber: number): boolean;
+	IsEven: (passedNumber: number) => boolean;
 }
 
 declare const Module: Module;
