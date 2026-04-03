@@ -1,0 +1,32 @@
+{
+	"name": "@twowayexit/is-even-luau",
+	"version": "1.0.0",
+	"description": "",
+	"main": "src/init.lua",
+	"scripts": {
+		"build": "rbxtsc",
+		"watch": "rbxtsc -w",
+		"prepublishOnly": "pnpm run build"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"packageManager": "pnpm@10.33.0",
+	"types": "index.d.ts",
+	"files": [
+		"out",
+		"!**/*.tsbuildinfo"
+	],
+	"publishConfig": {
+		"access": "public"
+	},
+	"devDependencies": {
+		"@rbxts/compiler-types": "3.0.0-types.0",
+		"@rbxts/types": "^1.0.913",
+		"eslint": "^9.39.4",
+		"eslint-plugin-roblox-ts": "^1.4.0",
+		"prettier": "^3.8.1",
+		"roblox-ts": "^3.0.0",
+		"typescript": "^6.0.2"
+	}
+}
