@@ -10,6 +10,10 @@
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/twowayexit/is-even-luau.git"
+	},
 	"packageManager": "pnpm@10.33.0",
 	"types": "index.d.ts",
 	"files": [
