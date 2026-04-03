@@ -11,5 +11,7 @@ Create a `.npmrc` file in the root directory of your project with this content:
 ```
 
 npm: `npm i @twowayexit/is-even-luau`
+
 pnpm: `pnpm add @twowayexit/is-even-luau`
+
 bun: `bun add @twowayexit/is-even-luau`
