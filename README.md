@@ -1,6 +1,6 @@
 # @twowayexit/is-even-luau
 
-Roblox TypeScript typings for underonunicom's ~~questionably inefficient~~ [IsEven package on wally](https://wally.run/package/underonunicom/is-even-luau?version=1.0.0)
+Roblox TypeScript typings for underonunicom's ~~questionably inefficient~~ [IsEven package](https://github.com/underonunicom/IsEvenLuau)
 
 ## Installing
 
